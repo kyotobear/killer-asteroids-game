@@ -1,6 +1,7 @@
 # space_rocks/game.py
 import pygame
 from utils import load_sprite
+
 class SpaceRocks:
     def __init__(self):
         #Initialize pygame and set the title
